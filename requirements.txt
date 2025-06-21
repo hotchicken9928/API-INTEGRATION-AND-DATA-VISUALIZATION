@@ -1,0 +1,4 @@
+requests
+matplotlib
+seaborn
+python-dotenv
